@@ -24,7 +24,7 @@ list:
       # target: "" # Optional
   - enable: true
     name: "London, United Kingdom"
-    description: "Our European headquarters providing international business services"
+    description: "Our European office providing international business services"
     contact:
       phone: "+44 20 8965 2222"
       email: "info@globalsts.net"
@@ -79,4 +79,24 @@ list:
       # variant: "" # Optional: fill | outline | text | circle
       # rel: "" # Optional
       # target: "" # Optional
+  - enable: true
+    name: "Hong Kong, China"
+    description: "Our Hong Kong headquarters providing regional business solutions across the Asian Region"
+    contact:
+      phone: "+971 50-9652222"
+      email: "info@globalsts.net"
+    details:    
+      - "RM03, 24/F, HO KING COMM CTR,2-16 FAYUEN ST, MONG KOK"
+      - "HONG KONG"
+      - "Sat–Thu: 08:00–17:00"
+      - "Hong Kong Office"
+    button:
+      enable: true
+      label: "CONTACT OFFICE"
+      url: "tel:+971509652222"
+      # hoverEffect: "" # Optional: text-flip | creative-fill | magnetic | magnetic-text-flip
+      # variant: "" # Optional: fill | outline | text | circle
+      # rel: "" # Optional
+      # target: "" # Optional
+
 ---

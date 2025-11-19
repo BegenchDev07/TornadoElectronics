@@ -6,7 +6,7 @@ titleSize: "display-2" # If your title text is larger, use a smaller text size l
 title: "Your Partner <br /> in Fire Protection"
 
 image: "/images/banner/abc.jpg"
-description: "Flame System Services delivers advanced fire detection, prevention, and response solutions to safeguard what matters most."
+description: "Tornado Electronic delivers advanced fire detection, prevention, and response solutions to safeguard what matters most."
 
 button:
   # Refer to the `sharedButton` schema in `src/sections.schema.ts` for all available configuration options (e.g., enable, label, url, hoverEffect, variant, icon, tag, rel, class, target, etc.)

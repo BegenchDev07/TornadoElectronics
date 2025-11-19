@@ -1,7 +1,7 @@
 # Site Configuration
 [site]
   title            = "Tornado Electronic" # Shared title for SEO and OpenGraph
-  description      = "Tornado Electronic delivers advanced fire detection, prevention, and response solutions to safeguard what matters most." # Shared description for SEO and OpenGraph
+  description      = "Tornado Electronic Tornado Electronic" # Shared description for SEO and OpenGraph
   tagline          = "Advanced fire detection, prevention, and response solutions"
   taglineSeparator = "" # default is " - "
   baseUrl          = "" # Base URL for the site and used in OpenGraph meta tags.
